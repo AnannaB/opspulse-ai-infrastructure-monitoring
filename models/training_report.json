@@ -1,0 +1,6 @@
+{
+  "rows_processed": 1500,
+  "anomalies_detected": 53,
+  "latency_forecast_mae_ms": 10.74,
+  "features": 16
+}

@@ -23,6 +23,20 @@ The application processes infrastructure telemetry, including CPU utilization, m
 
 Built using Python and Scikit-learn, OpsPulse demonstrates an end-to-end AI engineering workflow spanning data processing, time-series feature engineering, model training, evaluation, interactive visualization, and containerization.
 
+## 📸 Dashboard Preview
+
+### Infrastructure Monitoring Dashboard
+
+![OpsPulse Dashboard Overview](Screenshots/dashboard-overview.png)
+
+### Time-Series Forecasting & Anomaly Detection
+
+![OpsPulse Forecasting](Screenshots/forecasting.png)
+
+### AI-Assisted Incident Intelligence
+
+![OpsPulse Incident Intelligence](Screenshots/incident-intelligence.png)
+
 ## 🎯 Problem Statement
 
 Infrastructure performance issues can develop through unusual resource utilization, increasing response times, and rising application error rates.
